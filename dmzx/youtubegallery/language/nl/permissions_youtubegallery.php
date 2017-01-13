@@ -35,11 +35,10 @@ if (empty($lang) || !is_array($lang))
 // ’ » “ ” …
 
 $lang = array_merge($lang, array(
-	// Permissions
-	'ACL_U_VIDEO_VIEW_FULL'	=> 'Kan video galerij bekijken',
-	'ACL_U_VIDEO_VIEW'		=> 'Kan videos bekijken',
-	'ACL_U_VIDEO_DELETE'	=> 'Kan eigen videos verwijderen',
-	'ACL_U_VIDEO_POST'		=> 'Kan videos posten',
-	'ACL_U_VIDEO_COMMENT'	=> 'Kan commentaar geven op videos',
-	'ACL_U_VIDEO_COMMENT_DELETE'		=> 'Kan eigen video commentaren verwijderen',
+	'ACL_U_VIDEO_VIEW_FULL'			=> 'Kan video galerij bekijken',
+	'ACL_U_VIDEO_VIEW'				=> 'Kan video’s bekijken',
+	'ACL_U_VIDEO_DELETE'			=> 'Kan eigen video’s verwijderen',
+	'ACL_U_VIDEO_POST'				=> 'Kan video’s posten',
+	'ACL_U_VIDEO_COMMENT'			=> 'Kan commentaar geven op video’s',
+	'ACL_U_VIDEO_COMMENT_DELETE'	=> 'Kan eigen video commentaren verwijderen',
 ));
