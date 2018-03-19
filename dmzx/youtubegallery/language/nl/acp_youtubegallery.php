@@ -3,7 +3,7 @@
 *
 * @package phpBB Extension - Youtube Videos Gallery
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
-* Nederlandse vertaling @ Solidjeuh <http://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 * @Author _Vinny_ - http://www.suportephpbb.com.br
 *
@@ -42,6 +42,7 @@ $lang = array_merge($lang, array(
 	'ACP_GOOGLE_KEY'								=> 'Google Publieke API sleutel',
 	'ACP_GOOGLE_KEY_EXPLAIN'						=> 'Om de video galerij te gebruiken moet je een <strong>Google Public API key</strong> aanmaken. Bezoek aub <strong><a href="https://support.google.com/cloud/answer/6158862/">Het opzetten van API sleutels</a></strong> om de sleutel aan te maken. Lees deze gids als je problemen hebt om deze aan te maken <strong><a href="https://developers.google.com/console/help/new/#generatingdevkeys">Google Developers Console Help: API keys</a></strong>. Tot je deze sleutel aangemaakt hebt zal de video galerij niet beschikbaar zijn.',
 	'ACP_VIDEOS_PER_PAGE'							=> 'Video’s per pagina',
+	'ACP_VIDEOS_PER_PAGE_EXPLAIN'					=> 'Stel de waarde in voor video’s per pagina<br /><em>Standaard waarde is 10</em>.',
 	'ACP_COMMENTS_PER_PAGE'							=> 'Reacties per pagina',
 	'ACP_COMMENTS_PER_PAGE_EXPLAIN'					=> 'Stel het aantal reacties in op de video pagina.<br /><em>Standaard waarde is 10</em>.',
 	'ACP_ENABLE_COMMENTS'							=> 'Schakel reacties in op de video pagina',
@@ -59,7 +60,6 @@ $lang = array_merge($lang, array(
 	'ACP_VIDEO_SETTINGS_SAVED'						=> 'Video galerij instellingen opgeslagen',
 	'ACP_VIDEO_TOP'									=> 'Bovenaan',
 	'ACP_VIDEO_BOTTOM'								=> 'Onderaan',
-
 	// ACP Categories
 	'ACP_CATEGORY_CREATED'			=> 'Deze categorie werd succesvol toegevoegd.',
 	'ACP_CATEGORY_DELETE'			=> 'Ben je zeker dat je deze categorie wenst te verwijderen?',

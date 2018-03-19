@@ -3,7 +3,7 @@
 *
 * @package phpBB Extension - Youtube Videos Gallery
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
-* Nederlandse vertaling @ Solidjeuh <http://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 * @Author _Vinny_ - http://www.suportephpbb.com.br
 *
